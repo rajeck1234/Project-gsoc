@@ -96,36 +96,5 @@ Visit the [](https://alchemy-cw3d-dapp-boilerplate.netlify.app/)
 
 [](https://www.netlify.com/) 
 
-   ```
-   npm install -g netlify-cli
-   ```
-   ```
-   netlify deploy
-   ```
-
-```
-📦root
- ┣ 📂components
- ┃ ┣ 📂navigation
- ┃ ┃ ┗ 📜navbar.jsx
- ┃ ┗ 📜InstructionsComponent.jsx
- ┣ 📂layout
- ┃ ┗ 📜mainLayout.jsx
- ┣ 📂pages
- ┃ ┣ 📜_app.js
- ┃ ┗ 📜index.jsx
- ┣ 📂public
- ┃ ┗ 📜cw3d-logo.png
- ┣ 📂styles
- ┃ ┣ 📜Home.module.css
- ┃ ┣ 📜InstructionsComponent.module.css
- ┃ ┣ 📜Navbar.module.css
- ┃ ┗ 📜globals.css
- ┣ 📜.gitignore
- ┣ 📜README.md
- ┣ 📜next.config.js
- ┣ 📜package-lock.json
- ┗ 📜package.json
-```
-
+  
 Start editing the `pages/index.jsx` 

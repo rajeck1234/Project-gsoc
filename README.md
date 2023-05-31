@@ -52,22 +52,18 @@ Adding <b>custom tags</b>The editing and modification of image metadata are of p
 
 
 
-This boilerplate is set up to be deployed on Netlify and you can directly deploy this project by clicking the button below:
-
 [![]()](https://app.netlify.com/start/deploy?repository=https://github.com/alchemyplatform/netlify-alchemy-dapp-boilerplates)
 
 Visit the [](https://alchemy-cw3d-dapp-boilerplate.netlify.app/)
 
-## Resources
-Please refer to CW3D's documentation and the following useful links for an in depth explanation of how to work with projects bootstrapped with CW3D:
 
--   [Docs](https://docs.alchemy.com/docs/create-web3-dapp) - Everything you need to know when using CW3D
--   [GitHub](https://github.com/alchemyplatform/create-web3-dapp) - look at the extensive code example or start contributing
--   [Website](https://createweb3dapp.alchemy.com) - Learn more about CW3D and add components to your project
--   [Templates](https://createweb3dapp.alchemy.com/#templates) - Check out the pre-built project templates
--   [Components Library](https://createweb3dapp.alchemy.com/#components) - Add features directly to your project through components
--   [Examples](https://github.com/alchemyplatform/create-web3-dapp-examples) - See the components implemented in a real world dapp
--   [Community](https://t.me/createweb3dapp) - Meet other builders, get support, and give feedback!
+-   [](https://docs.alchemy.com/docs/create-web3-dapp)
+-   [](https://github.com/alchemyplatform/create-web3-dapp) 
+-   [](https://createweb3dapp.alchemy.com) 
+-   [](https://createweb3dapp.alchemy.com/#templates) 
+-   [](https://createweb3dapp.alchemy.com/#components)
+-   [](https://github.com/alchemyplatform/create-web3-dapp-examples) 
+-   [](https://t.me/createweb3dapp) 
 
 ## Overview
 

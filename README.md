@@ -70,13 +70,3 @@ Visit the [](https://alchemy-cw3d-dapp-boilerplate.netlify.app/)
  [](https://github.com/alchemyplatform/create-web3-dapp) [](https://www.alchemy.com/) 
 
 
-
- [](https://nodejs.org/)
- [](https://yarnpkg.com/)
- [](https://git-scm.com/)
- [`http://localhost:3000/`](http://localhost:3000/) 
-
-[![]()](https://app.netlify.com/start/deploy?repository=https://github.com/alchemyplatform/netlify-alchemy-dapp-boilerplates)
-
-[](https://www.netlify.com/) 
-

@@ -48,10 +48,3 @@ Adding <b>custom tags</b>The editing and modification of image metadata are of p
 
 
 
-
-
-
-
-[![]()](https://app.netlify.com/start/deploy?repository=https://github.com/alchemyplatform/netlify-alchemy-dapp-boilerplates)
-
-Visit the [](https://alchemy-cw3d-dapp-boilerplate.netlify.app/)

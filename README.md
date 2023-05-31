@@ -54,7 +54,7 @@ Adding <b>custom tags</b>The editing and modification of image metadata are of p
 
 This boilerplate is set up to be deployed on Netlify and you can directly deploy this project by clicking the button below:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/alchemyplatform/netlify-alchemy-dapp-boilerplates)
+[![]()](https://app.netlify.com/start/deploy?repository=https://github.com/alchemyplatform/netlify-alchemy-dapp-boilerplates)
 
 Visit the [](https://alchemy-cw3d-dapp-boilerplate.netlify.app/)
 

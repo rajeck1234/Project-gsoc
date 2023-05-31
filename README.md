@@ -56,7 +56,7 @@ This boilerplate is set up to be deployed on Netlify and you can directly deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/alchemyplatform/netlify-alchemy-dapp-boilerplates)
 
-Visit the [Live Demo here](https://alchemy-cw3d-dapp-boilerplate.netlify.app/)
+Visit the [](https://alchemy-cw3d-dapp-boilerplate.netlify.app/)
 
 ## Resources
 Please refer to CW3D's documentation and the following useful links for an in depth explanation of how to work with projects bootstrapped with CW3D:

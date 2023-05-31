@@ -74,27 +74,9 @@ Visit the [](https://alchemy-cw3d-dapp-boilerplate.netlify.app/)
  [](https://nodejs.org/)
  [](https://yarnpkg.com/)
  [](https://git-scm.com/)
+ [`http://localhost:3000/`](http://localhost:3000/) 
 
-
-
-   ```
-   git clone https://github.com/alchemyplatform/netlify-alchemy-dapp-boilerplates.git
-   ```
-   ```
-   cd netlify-alchemy-dapp-boilerplates
-   ```
-   ```
-   yarn install
-   ```
-
-   ```
-   yarn run dev
-   ```
-2. Open your browser and navigate to [`http://localhost:3000/`](http://localhost:3000/) 
-
-[![](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/alchemyplatform/netlify-alchemy-dapp-boilerplates)
+[![]()](https://app.netlify.com/start/deploy?repository=https://github.com/alchemyplatform/netlify-alchemy-dapp-boilerplates)
 
 [](https://www.netlify.com/) 
 
-  
-Start editing the `pages/index.jsx` 

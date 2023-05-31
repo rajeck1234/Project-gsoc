@@ -1,6 +1,6 @@
 # Gsoc 2023
 ---
-layout: post
+layout: post 1
 title: "GsoC 2023!"
 date:   2023-06-01 02:00:36 +0530
 categories: gsoc

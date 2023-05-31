@@ -1,4 +1,4 @@
-# CW3D Dapp Boilerplate For Netlify
+# GSOC 2023
 
 This boilerplate is set up to be deployed on Netlify and you can directly deploy this project by clicking the button below:
 
